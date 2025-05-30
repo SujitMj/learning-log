@@ -1,4 +1,4 @@
-'''
+
 #Greet a Person (Beginner)
 
 def greet(name,/):
@@ -30,7 +30,7 @@ for x in range(limit):
     numbers.append(num)
 
 find_max(numbers)
-'''
+
 
 #Count Vowels in a String (Intermediate)
 
